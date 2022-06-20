@@ -56,7 +56,7 @@ if(isset($_POST['email'])) {
 <html>
     <head></head>
     <body>
-        <script type="text/javascript">alert("we have recieved your request, we will get back to you shortly. Thank You");window.location.href='contact.html';
+        <script type="text/javascript">alert("we have recieved your request, we will get back to you shortly. Thank You");window.location.href='index.html';
 
         </script>
     </body>
